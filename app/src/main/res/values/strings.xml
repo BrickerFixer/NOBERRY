@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NOBERRY</string>
+    <string name="time">CurrentTime</string>
 </resources>
